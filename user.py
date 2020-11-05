@@ -1,0 +1,6 @@
+userName = input("What is your name?")
+age = input("How age a you?")
+index = input("Where are you live?")
+print(("This is ") + userName)
+print(("It is") + age)
+print(("This is ") + index)
