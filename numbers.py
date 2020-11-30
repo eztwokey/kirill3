@@ -9,4 +9,4 @@ s = (a + b)
 q = (c + d)
 x = s / q
 x = float('{:.2f}'.format(x))
-print(x)
+print('Результат : ',x)
